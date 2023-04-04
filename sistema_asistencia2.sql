@@ -7,8 +7,8 @@ Source Host           : 127.0.0.1:3306
 Source Database       : sistema_asistencia
 
 Target Server Type    : MYSQL
-Target Server Version : 50505
-File Encoding         : 65001
+
+
 
 
 */
